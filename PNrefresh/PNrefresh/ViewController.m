@@ -22,6 +22,10 @@
 {
     NSLog(@"shhhhhhh");
 }
+- (void)test
+{
+    NSLog(@"test");
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
